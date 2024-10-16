@@ -1,3 +1,3 @@
 ## Hola, Bienvenidos a mi GitHub 👋
 
-(!imagen)[/img/buildsoftwarebetter,toguether.jpg]
+![iamgen](/img/Build software better, together.jpeg)
