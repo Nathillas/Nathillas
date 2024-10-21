@@ -1,2 +1,3 @@
-<h1 align="center"> Hola, Bienvenidos a mi GitHub 👋
-![imagen](img/portadagithub.jpg)
+## Hola, Bienvenidos a mi GitHub 👋
+
+![iamgen](img/portadagithub.jpg)
