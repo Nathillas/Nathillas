@@ -1,3 +1,3 @@
 ## Hola, Bienvenidos a mi GitHub 👋
 
-![iamgen](img/imagen.jpeg)
+![iamgen](img/portadagithub.jpg)
