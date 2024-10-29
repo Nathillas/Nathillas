@@ -16,7 +16,7 @@ Soy estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en 
 - 💡 Aplicando mis conocimientos en proyectos de clase y personales para mejorar mis habilidades.
 
 ### 🚀 Mis estadísticas en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nathillas&show_icons=true&theme=radical)
 
 ### 📫 Contáctame
 - [LinkedIn](enlace a tu perfil de LinkedIn) 💼
