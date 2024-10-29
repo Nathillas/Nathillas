@@ -19,7 +19,7 @@ Soy estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nathillas&show_icons=true&theme=radical)
 
 ### 📫 Contáctame
-- [LinkedIn](enlace a tu perfil de LinkedIn) 💼
+- [LinkedIn](https://www.linkedin.com/in/natalia-barrera-aguilera-870370295/) 💼
 - [Correo electrónico](mailto:tuemail@dominio.com) 📧
 
 ---
