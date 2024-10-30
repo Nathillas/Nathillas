@@ -45,8 +45,3 @@ Soy estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en 
 - [Correo electrónico](mailto:tuemail@dominio.com) 📧
 
 ---
-
-🌟 **Proyectos Destacados** 🌟  
-
-- [Nombre del Proyecto](enlace al repositorio): Breve descripción del proyecto.
-- [Otro Proyecto](enlace al repositorio): Descripción breve.
