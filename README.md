@@ -8,26 +8,8 @@ Soy estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en 
 
 ## 🛠️ Tecnologías y Herramientas
 
-<details>
-<summary><strong>Lenguajes de Programación</strong></summary>
-  
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?&logo=gnu-bash&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&logo=sql&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>Herramientas de Desarrollo</strong></summary>
-
-- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&logo=docker&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>Áreas de Interés</strong></summary>
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)   ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)   ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)   ![Git](https://img.icons8.com/color/48/000000/git.png)  ![Bash](https://img.icons8.com/color/48/000000/bash.png)   ![Linux](https://img.icons8.com/color/48/000000/linux.png)  ![PowerShell](https://img.icons8.com/color/48/000000/powershell.png)  ![Python](https://img.icons8.com/color/48/000000/python.png)  ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png)    ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+<strong>Áreas de Interés</strong>
 
 - ⚙️ **Administración de sistemas**
 - 🖥️ **Virtualización**
